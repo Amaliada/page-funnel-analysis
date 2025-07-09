@@ -87,4 +87,4 @@ _Data Analyst | Python & BI Enthusiast_
 
 ## 📬 Contact
 
-If you have questions or suggestions, feel free to reach out via [LinkedIn](www.linkedin.com/in/dana-bodea-0aa3262a6) or GitHub Issues.
+If you have questions or suggestions, feel free to reach out via [LinkedIn] www.linkedin.com/in/dana-bodea-0aa3262a6 or GitHub Issues .https://amaliada.github.io/page-funnel-analysis/
